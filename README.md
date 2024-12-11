@@ -1,1 +1,1 @@
-Domain LLM for Bank Compalints 
+Domain LLM for Bank Compliants 
